@@ -8,7 +8,10 @@
 
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
+
+            <video src="https://v.ruc.edu.cn/static/login/img/6month.mp4" autoplay muted id="video" width="260" align="right" ></video>
+
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="">
 
 |   主&emsp;页   | <https://vodtv.cn>    <https://viptv.work>                                    |
 | :------------: | :------------------------------------------------------- |
