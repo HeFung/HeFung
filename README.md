@@ -6,14 +6,13 @@
 
 </pre>
 
+**About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
 
-- 🌱 I’m currently learning ...	**About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
-- 👯 I’m looking to collaborate on ...	
-- 🤔 I’m looking for help with ...	<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
+<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
-|   主&emsp;页   | <https://vodtv.cn>    <https://viptv.work>                                    |
-| :------------: | :------------------------------------------------------- |
-| **IPTV** | **<https://github.com/vodtv/cn>**          |
+| 主&emsp;页 | <https://vodtv.cn>  <https://viptv.work> |
+| :--------: | :----------------------------------------|
+|  **IPTV-SOURCES**  | **<https://github.com/vodtv/iptv-sourceS>**     |
 
 **Languages:**
 
@@ -31,5 +30,3 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
-
-
