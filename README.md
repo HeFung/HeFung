@@ -11,8 +11,6 @@
 
             <video src="https://v.ruc.edu.cn/static/login/img/6month.mp4" autoplay muted id="video" width="260" align="right" ></video>
 
-<img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="">
-
 |   主&emsp;页   | <https://vodtv.cn>    <https://viptv.work>                                    |
 | :------------: | :------------------------------------------------------- |
 | **IPTV** | **<https://github.com/vodtv/cn>**          |
