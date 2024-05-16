@@ -7,8 +7,6 @@
 </pre>
 
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
-
-![profile](./profile-3d-contrib/profile-green-animate.svg)
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
 | 主&emsp;页 | <https://vodtv.cn>  <https://viptv.work> |
@@ -21,6 +19,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=fff)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
+![profile](./profile-3d-contrib/profile-green-animate.svg)
 
 **Frameworks and Tools:**
 
