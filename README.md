@@ -1,9 +1,6 @@
-### Hi there, I'm He Fung 👋
-
+### Hi there, I'm He Fung 👋 this is my coding playground.
 <pre>
-
-不知道
-
+Software Developer specializing in VUE, PHP, Ruby.
 </pre>
 
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
@@ -11,7 +8,7 @@
 
 | 主&emsp;页 | <https://vodtv.cn>  <https://viptv.work> |
 | :--------: | :----------------------------------------|
-|  **IPTV-SOURCES**  | **<https://github.com/vodtv/iptv-sourceS>**     |
+|  **IPTV-SOURCES**  | **<https://github.com/vodtv/iptv-sources>**     |
 
 **Languages:**
 
