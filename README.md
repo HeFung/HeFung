@@ -1,11 +1,11 @@
 ### Hi there, I'm He Fung 👋 this is my coding playground.
 <pre>
-Software Developer specializing in VUE, PHP, Ruby.
+ TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 </pre>
-
+[🌐 Website](https://viptv.work) · [📚 Blog](https://viptv.work/blog/) · [📇 Contact](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
-
+S
 | 主&emsp;页 | <https://vodtv.cn>  <https://viptv.work> |
 | :--------: | :----------------------------------------|
 |  **IPTV-SOURCES**  | **<https://github.com/vodtv/iptv-sources>**     |
