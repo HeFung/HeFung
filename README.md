@@ -2,10 +2,12 @@
 <pre>
  TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 </pre>
+
 [🌐 Website](https://viptv.work) · [📚 Blog](https://viptv.work/blog/) · [📇 Contact](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
+
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
-S
+
 | 主&emsp;页 | <https://vodtv.cn>  <https://viptv.work> |
 | :--------: | :----------------------------------------|
 |  **IPTV-SOURCES**  | **<https://github.com/vodtv/iptv-sources>**     |
@@ -28,3 +30,12 @@ S
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
 ![profile](./profile-3d-contrib/profile-green-animate.svg)
+
+### Tech stack
+![](https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust)
+
+### Tools I use
+![](https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,jenkins,pnpm)
+
+![](https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8)
