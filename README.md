@@ -5,7 +5,7 @@
 </pre>
 
 ## 个人项目： 
-[📚 Blog](https://viptv.work/blog/) · [📇 Contact](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
+[📚 Blog](https://viptv.work/blog/) · [📇 Mail](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
 
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
