@@ -56,11 +56,41 @@
   </picture>
 </a>
 
-### Tech stack
-![](https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust)
+## Stats
 
-### Tools I use
-![](https://skillicons.dev/icons?i=vscode,webpack,vite,rollup,gulp,git,githubactions,vercel,netlify,jenkins,pnpm)
-
-![](https://github-readme-stats.vercel.app/api?username=pengzhanbo&show_icons=true&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pengzhanbo&layout=compact&hide_border=true&langs_count=8)
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeFung&theme=github_dark"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeFung&theme=github"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeFung&theme=github_dark"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeFung&theme=github"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeFung&theme=github_dark"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeFung&theme=github"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeFung&theme=github_dark"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeFung&theme=github"
+  />
+</picture>
