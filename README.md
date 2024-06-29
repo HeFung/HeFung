@@ -3,10 +3,10 @@
 <pre>
  TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 </pre>
-## 个人网站
-[🌐 Website](https://viptv.work) · [📚 Blog](https://viptv.work/blog/) · [📇 Contact](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
 
 ## 个人项目： 
+[📚 Blog](https://viptv.work/blog/) · [📇 Contact](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
+
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
 
 <a href="https://viptv.work" target="_blank">
