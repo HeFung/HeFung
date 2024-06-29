@@ -1,8 +1,9 @@
+## 个人信息
 ### Hi there, I'm He Fung 👋 this is my coding playground.
 <pre>
  TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 </pre>
-
+## 个人网站
 [🌐 Website](https://viptv.work) · [📚 Blog](https://viptv.work/blog/) · [📇 Contact](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
 
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
@@ -30,6 +31,30 @@
 ![Git](https://img.shields.io/badge/Git-F05032?logo=Git&logoColor=fff)
 ![Visual Studio Code](https://img.shields.io/badge/VS%20CODE-007ACC?logo=VisualStudioCode&logoColor=fff)
 ![profile](./profile-3d-contrib/profile-green-animate.svg)
+
+## 个人项目
+<a href="https://viptv.work" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress&repo=core&theme=github_dark"
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress&repo=core&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://vodtv.cn" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress-theme-hope&repo=vuepress-theme-hope&theme=github_dark"
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=vuepress-theme-hope&repo=vuepress-theme-hope&theme=github_light"
+    />
+  </picture>
+</a>
 
 ### Tech stack
 ![](https://skillicons.dev/icons?i=ts,nodejs,deno,react,vue,solidjs,astro,windicss,nextjs,nuxtjs,nestjs,electron,tauri,rust)
