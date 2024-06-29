@@ -8,13 +8,6 @@
 
 **About Me:** <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
-
-| 主&emsp;页 | <https://vodtv.cn>  <https://viptv.work> |
-| :--------: | :----------------------------------------|
-|  **IPTV-SOURCES**  | **<https://github.com/vodtv/iptv-sources>**     |
-
-
-
 ## 个人项目
 <a href="https://viptv.work" target="_blank">
   <picture>
