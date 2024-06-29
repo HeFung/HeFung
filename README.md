@@ -37,28 +37,28 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeFung&theme=github_dark"
+    srcset="./profile-summary-card-output/2077/0-profile-details.svg"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=HeFung&theme=github"
+    src="./profile-summary-card-output/2077/0-profile-details.svg"
   />
 </picture>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeFung&theme=github_dark"
+    srcset="./profile-summary-card-output/2077/1-profile-details.svg"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=HeFung&theme=github"
+    src="./profile-summary-card-output/2077/1-profile-details.svg"
   />
 </picture>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeFung&theme=github_dark"
+    srcset="./profile-summary-card-output/2077/2-profile-details.svg
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeFung&theme=github"
+    src="./profile-summary-card-output/2077/2-profile-details.svg"
   />
 </picture>
 
