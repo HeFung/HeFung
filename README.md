@@ -61,15 +61,6 @@
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=HeFung&theme=github"
   />
 </picture>
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeFung&theme=github_dark"
-  />
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=HeFung&theme=github"
-  />
-</picture>
 
 **语言:**
 
