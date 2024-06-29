@@ -6,8 +6,10 @@
 ## 个人网站
 [🌐 Website](https://viptv.work) · [📚 Blog](https://viptv.work/blog/) · [📇 Contact](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
 
-**个人项目：**  <img src="https://visitor-badge.laobi.icu/badge?page_id=maomao1996.maomao1996" align="center" alt="visitors">
+**个人项目：** 
+
 <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
+
 <a href="https://viptv.work" target="_blank">
   <picture>
     <source
