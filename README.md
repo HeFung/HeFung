@@ -32,7 +32,7 @@
   </picture>
 </a>
 
-## Stats
+## 统计信息
 
 <picture>
   <source
@@ -46,19 +46,37 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./profile-summary-card-output/2077/1-profile-details.svg"
+    srcset="./profile-summary-card-output/2077/1-repos-per-language.svg"
   />
   <img
-    src="./profile-summary-card-output/2077/1-profile-details.svg"
+    src="./profile-summary-card-output/2077/1-repos-per-language.svg"
   />
 </picture>
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./profile-summary-card-output/2077/2-profile-details.svg
+    srcset="./profile-summary-card-output/2077/2-most-commit-language.svg"
   />
   <img
-    src="./profile-summary-card-output/2077/2-profile-details.svg"
+    src="./profile-summary-card-output/2077/2-most-commit-language.svg"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-summary-card-output/2077/3-stats.svg"
+  />
+  <img
+    src="./profile-summary-card-output/2077/3-stats.svg"
+  />
+</picture>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./profile-summary-card-output/2077/4-productive-time.svg"
+  />
+  <img
+    src="./profile-summary-card-output/2077/4-productive-time.svg"
   />
 </picture>
 
