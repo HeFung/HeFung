@@ -40,10 +40,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./profile-summary-card-output/2077/0-profile-details.svg"
+    srcset="./profile-summary-card-output/github_dark/0-profile-details.svg"
   />
   <img
-    src="./profile-summary-card-output/2077/0-profile-details.svg"
+    src="./profile-summary-card-output/github/0-profile-details.svg"
   />
 </picture>
 </a>
@@ -52,10 +52,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./profile-summary-card-output/2077/1-repos-per-language.svg"
+    srcset="./profile-summary-card-output/github_dark/1-repos-per-language.svg"
   />
   <img
-    src="./profile-summary-card-output/2077/1-repos-per-language.svg"
+    src="./profile-summary-card-output/github/1-repos-per-language.svg"
   />
 </picture>
 </a>
@@ -64,10 +64,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./profile-summary-card-output/2077/2-most-commit-language.svg"
+    srcset="./profile-summary-card-output/github_dark/2-most-commit-language.svg"
   />
   <img
-    src="./profile-summary-card-output/2077/2-most-commit-language.svg"
+    src="./profile-summary-card-output/github/2-most-commit-language.svg"
   />
 </picture>
   
@@ -75,10 +75,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./profile-summary-card-output/2077/3-stats.svg"
+    srcset="./profile-summary-card-output/github_dark/3-stats.svg"
   />
   <img
-    src="./profile-summary-card-output/2077/3-stats.svg"
+    src="./profile-summary-card-output/github/3-stats.svg"
   />
 </picture>
 </a>
@@ -87,10 +87,10 @@
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="./profile-summary-card-output/2077/4-productive-time.svg"
+    srcset="./profile-summary-card-output/github/4-productive-time.svg"
   />
   <img
-    src="./profile-summary-card-output/2077/4-productive-time.svg"
+    src="./profile-summary-card-output/github/4-productive-time.svg"
   />
 </picture>
 </a>
