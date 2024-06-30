@@ -4,7 +4,7 @@
  TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 </pre>
 
-## 个人项目： <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="260" align="right" alt="">
+## 个人项目： <img src="https://img.viptv.work/viptv/work.webp" width="260" align="right" alt="">
 [📚 Blog](https://viptv.work/blog/) · [📇 Mail](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
 
 <a href="https://viptv.work" target="_blank">
