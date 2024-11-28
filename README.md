@@ -39,7 +39,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
 
-<a href="https://viptv.work" target="_blank">
+<a href="https://www.viptv.work" target="_blank">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
