@@ -10,7 +10,7 @@
 
 [📚 Blog](https://viptv.work/blog/) · [📇 Mail](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
 
-<a href="https://viptv.work" target="_blank">
+<a href="https://www.viptv.work" target="_blank">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
