@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+He+Fung+%F0%9F%91%8B;this+is+my+coding+playground.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=true&width=435&lines=Hi+there%2C+I'm+He+Fung+%F0%9F%91%8B;this+is+my+coding+playground.)](https://git.io/typing-svg)
 <pre>
  TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 </pre>
