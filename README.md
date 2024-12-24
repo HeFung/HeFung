@@ -1,7 +1,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+He+Fung+%F0%9F%91%8B;this+is+my+coding+playground.)](https://git.io/typing-svg)
-<pre>
- TypeScript enthusiast, Node.js user, Rust & Harmony beginner
-</pre>
+
+- 👨🏻‍💻 专注于前端开发的 Web 开发工程师
+- 💻 毕业于计算机专业的业余选手
+- 🪐 Self-hosting 爱好者
+- 🛡️ Homelab 理性玩家
+- 🌽 拥有[域名](https://viptv.work)
+- 🕸 维护最小的[互联网自治系统](https://www.viptv.work)
 
 ## 个人项目： 
 
