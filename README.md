@@ -3,10 +3,9 @@
  TypeScript enthusiast, Node.js user, Rust & Harmony beginner
 </pre>
 
-<img align="right" width="512" height="256" src="https://static.miantiao.me/share/2023/wDiISS/home.svg">
 ## 个人项目： 
 
-<img src="./work.webp" width="260" align="right" />
+<img src="./work.webp" width="512" height="256" align="right" />
 
 [📚 Blog](https://www.viptv.work/blog/) · [📇 Mail](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
 
