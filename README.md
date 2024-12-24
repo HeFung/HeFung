@@ -5,7 +5,7 @@
 
 ## 个人项目： 
 
-<img src="./work.webp" width="512" height="256" align="right" />
+<img src="./work.webp"  height="256" align="right" />
 
 [📚 Blog](https://www.viptv.work/blog/) · [📇 Mail](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
 
