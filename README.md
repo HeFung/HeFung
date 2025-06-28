@@ -19,10 +19,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=viptv-work&repo=viptv.work&theme=github_dark"
+      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=viptvjs&repo=viptv.work&theme=github_dark"
     />
     <img
-      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=viptv-work&repo=viptv.work&theme=github_light"
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=viptvjs&repo=viptv.work&theme=github_light"
     />
   </picture>
 </a>
