@@ -19,7 +19,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=viptvjs&repo=hwww.viptv.work&theme=github_dark"
+      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=viptvjs&repo=www.viptv.work&theme=github_dark"
     />
     <img
       src="https://github-readme-status-mrhope.vercel.app/api/pin?username=viptvjs&repo=www.viptv.work&theme=github_light"
