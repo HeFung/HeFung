@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+there%2C+I'm+He+Fung+%F0%9F%91%8B;this+is+my+coding+playground.)](https://git.io/typing-svg)
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi,%20I'm%20HeFung&reversal=true&textBg=false&fontSize=64&fontAlignY=30&desc=TypeScript%20enthusiast,%20Node.js%20user,%20Rust%20and%20Harmony%20beginner&descSize=16&descAlignY=50&descAlign=55">
+</picture>
 
 - 👨🏻‍💻 专注于前端开发的 Web 开发工程师
 - 💻 毕业于计算机专业的业余选手
