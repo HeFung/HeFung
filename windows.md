@@ -25,8 +25,8 @@ services:
     environment:
       VERSION: "10"          # 使用 Windows 10 LTSC 长期服务版（无应用商店/Edge等冗余组件）
       EDITION: "Enterprise"  # 企业版更适合轻量化
-      USERNAME: "meegooboo"  # 账户名
-      PASSWORD: "meegooboo" # 密码
+      USERNAME: "admin"  # 账户名
+      PASSWORD: "admin" # 密码
       RAM_SIZE: "8G"         # 内存减至 8GB（LTSC 最低要求2G）
       CPU_CORES: "4"         # CPU 核心数
       DISK_SIZE: "64G"       # 磁盘精简至 64GB（LTSC 安装后仅需 12GB）
