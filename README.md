@@ -35,7 +35,7 @@
       srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=iptvjs&repo=iptv-sources&theme=github_dark"
     />
     <img
-      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=iptvjs&repo=iptv-source&theme=github_light"
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=iptvjs&repo=iptv-sources&theme=github_light"
     />
   </picture>
 </a>
