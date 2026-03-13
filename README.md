@@ -32,10 +32,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=vodtv&repo=iptv-sources&theme=github_dark"
+      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=iptvjs&repo=iptv-sources&theme=github_dark"
     />
     <img
-      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=vodtv&repo=iptv-source&theme=github_light"
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=iptvjs&repo=iptv-source&theme=github_light"
     />
   </picture>
 </a>
