@@ -55,24 +55,44 @@ jobs:
           chmod +x ~/.vnc/xstartup
           vncserver -kill :0 || true
           vncserver :0 -localhost no -geometry 1280x800 -depth 24 -xstartup ~/.vnc/xstartup
-
+      
+      # 1. 安装 Tailscale
       - name: Install Tailscale
-        run: curl -fsSL https://tailscale.com/install.sh | sh
+        run: |
+          curl -fsSL https://tailscale.com/install.sh | sudo sh
+          sudo systemctl enable --now tailscaled
 
+      # 2. 开启IP转发（出口节点强制要求）
+      - name: Enable IP Forwarding
+        run: |
+          echo 'net.ipv4.ip_forward=1' | sudo tee /etc/sysctl.d/99-tailscale.conf
+          echo 'net.ipv6.conf.all.forwarding=1' | sudo tee -a /etc/sysctl.d/99-tailscale.conf
+          sudo sysctl -p /etc/sysctl.d/99-tailscale.conf  
+          
+     # 3. 防火墙开启IP伪装（对应文档firewalld配置，Ubuntu用ufw兼容）
+      - name: Firewall Masquerade
+        run: |
+          sudo ufw allow in on tailscale0
+          sudo ufw allow out on tailscale0          
+  
+          
       - name: Start tailscaled (manual)
         run: |
           sudo mkdir -p /var/run
           nohup sudo tailscaled >/tmp/tailscaled.log 2>&1 & disown
           sleep 3
-
-      - name: Connect to Tailscale
-        run: |          
-          echo 'net.ipv4.ip_forward = 1' | sudo tee -a /etc/sysctl.d/99-tailscale.conf
-          echo 'net.ipv6.conf.all.forwarding = 1' | sudo tee -a /etc/sysctl.d/99-tailscale.conf
-          sudo sysctl -p /etc/sysctl.d/99-tailscale.conf
+          
+       # 4. 声明本机为出口节点 + 登录Tailscale
+      - name: Advertise Exit Node & Login
+        env:
+          TS_AUTHKEY: ${{ secrets.TAILSCALE_AUTH_KEY }} # 仓库密钥存储授权key
+        run: |
+          # 标记此机器作为出口节点
           sudo tailscale set --advertise-exit-node
-          sudo tailscale up --authkey=${{ secrets.TAILSCALE_AUTH_KEY }} --hostname=gh-runner-${GITHUB_RUN_ID}
+          # 接入Tailscale网络
+          sudo tailscale up --authkey=${{ secrets.TAILSCALE_AUTH_KEY }} --hostname=gh-runner-${GITHUB_RUN_ID}      
           echo "TAILSCALE_IP=$(tailscale ip -4)" >> "$GITHUB_ENV"
+ 
  
       - name: Restore systemctl hooks
         run: bash .github/workflows/scripts/restore-systemctl.sh
