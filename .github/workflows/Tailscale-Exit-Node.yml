@@ -32,7 +32,7 @@ jobs:
       # 4. 声明本机为出口节点 + 登录Tailscale
       - name: Advertise Exit Node & Login
         env:
-          TS_AUTHKEY: ${{ secrets.TS_AUTH_KEY }} # 仓库密钥存储授权key
+          TS_AUTHKEY: ${{ secrets.TAILSCALE_AUTH_KEY }} # 仓库密钥存储授权key
         run: |
           # 标记此机器作为出口节点
           sudo tailscale set --advertise-exit-node
