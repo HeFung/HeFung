@@ -18,7 +18,7 @@ jobs:
           sudo chmod +x /usr/sbin/policy-rc.d
 
       - name: Checkout repository
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
 
       - name: Disable systemctl hooks
         run: bash .github/workflows/scripts/disable-systemctl.sh
