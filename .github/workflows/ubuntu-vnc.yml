@@ -90,7 +90,7 @@ jobs:
           # 标记此机器作为出口节点
           sudo tailscale set --advertise-exit-node
           # 接入Tailscale网络
-          sudo tailscale up --authkey=${{ secrets.TAILSCALE_AUTH_KEY }} --hostname=gh-runner-${GITHUB_RUN_ID}      
+          sudo tailscale up --authkey=${{ secrets.TAILSCALE_AUTH_KEY }} --hostname=gh-runner-vpn      
           echo "TAILSCALE_IP=$(tailscale ip -4)" >> "$GITHUB_ENV"
  
  
