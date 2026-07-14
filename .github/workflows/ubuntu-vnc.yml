@@ -66,9 +66,17 @@ jobs:
           sleep 3
 
       - name: Connect to Tailscale
-        run: |
+        run: |          
+          sudo tailscale set --exit-node=$(tailscale ip -4)
           sudo tailscale set --advertise-exit-node
           sudo tailscale up --authkey=${{ secrets.TAILSCALE_AUTH_KEY }} --hostname=gh-runner-${GITHUB_RUN_ID}
+          echo 'net.ipv4.ip_forward = 1' | sudo tee -a /etc/sysctl.d/99-tailscale.conf
+          echo 'net.ipv6.conf.all.forwarding = 1' | sudo tee -a /etc/sysctl.d/99-tailscale.conf
+          sudo sysctl -p /etc/sysctl.d/99-tailscale.conf
+          echo 'net.ipv4.ip_forward = 1' | sudo tee -a /etc/sysctl.conf
+          echo 'net.ipv6.conf.all.forwarding = 1' | sudo tee -a /etc/sysctl.conf
+          sudo sysctl -p /etc/sysctl.conf
+
           echo "TAILSCALE_IP=$(tailscale ip -4)" >> "$GITHUB_ENV"
 
       - name: Restore systemctl hooks
