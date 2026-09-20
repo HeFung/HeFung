@@ -15,9 +15,9 @@
 
 <img src="./work.webp"  height="256" align="right" />
 
-[📚 Blog](https://www.hefung.github.io/) · [📇 Mail](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
+[📚 Blog](https://hefung.github.io/) · [📇 Mail](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptvjs/discussions)
 
-<a href="https://www.hefung.github.io" target="_blank">
+<a href="https://hefung.github.io" target="_blank">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
