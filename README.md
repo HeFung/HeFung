@@ -28,6 +28,28 @@
     />
   </picture>
 </a>
+<a href="https://hefung.github.io/nav" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=hefung&repo=nav&theme=github_dark"
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=hefung&repo=nav&theme=github_light"
+    />
+  </picture>
+</a>
+<a href="https://hefung.github.io/bing" target="_blank">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=hefung&repo=bing&theme=github_dark"
+    />
+    <img
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=hefung&repo=bing&theme=github_light"
+    />
+  </picture>
+</a>
 
 
 
@@ -37,7 +59,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
 
-<a href="https://www.hefung.github.io" target="_blank">
+<a href="https://hefung.github.io" target="_blank">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -49,7 +71,7 @@
 </picture>
 </a>
 
-<a href="https://www.hefung.github.io" target="_blank">
+<a href="https://hefung.github.io" target="_blank">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -61,7 +83,7 @@
 </picture>
 </a>
 
-<a href="https://www.hefung.github.io" target="_blank">
+<a href="https://hefung.github.io" target="_blank">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -72,7 +94,7 @@
   />
 </picture>
   
-<a href="https://www.hefung.github.io" target="_blank">
+<a href="https://hefung.github.io" target="_blank">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -84,7 +106,7 @@
 </picture>
 </a>
   
-<a href="https://www.hefung.github.io" target="_blank">   
+<a href="https:/hefung.github.io" target="_blank">   
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
