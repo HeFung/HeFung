@@ -6,8 +6,8 @@
 - 💻 毕业于计算机专业的业余选手
 - 🪐 Self-hosting 爱好者
 - 🛡️ Homelab 理性玩家
-- 🌽 拥有[域名](https://viptv.work)
-- 🕸 维护最小的[互联网自治系统](https://www.viptv.work)
+- 🌽 拥有[域名](https://hefung.github.io)
+- 🕸 维护最小的[互联网自治系统](https://www.hefung.github.io)
   
 ---
 
@@ -15,30 +15,21 @@
 
 <img src="./work.webp"  height="256" align="right" />
 
-[📚 Blog](https://www.viptv.work/blog/) · [📇 Mail](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
+[📚 Blog](https://www.hefung.github.io/) · [📇 Mail](mailto:qq2236639958@outlook.com) · [💬 Discussions](https://github.com/orgs/viptv-work/discussions)
 
-<a href="https://www.viptv.work" target="_blank">
+<a href="https://www.hefung.github.io" target="_blank">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=viptvjs&repo=viptv.work&theme=github_dark"
+      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=hefung&repo=hefung.github.io&theme=github_dark"
     />
     <img
-      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=viptvjs&repo=viptv.work&theme=github_light"
+      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=hefung&repo=hefung.github.io&theme=github_light"
     />
   </picture>
 </a>
-<a href="https://iptv.vodtv.cn" target="_blank">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://github-readme-status-mrhope.vercel.app/api/pin?username=iptvjs&repo=iptv-sources&theme=github_dark"
-    />
-    <img
-      src="https://github-readme-status-mrhope.vercel.app/api/pin?username=iptvjs&repo=iptv-sources&theme=github_light"
-    />
-  </picture>
-</a>
+
+
 
 ## 统计信息
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=HTML5&logoColor=fff)
@@ -46,7 +37,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=JavaScript&logoColor=333)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=TypeScript&logoColor=fff)
 
-<a href="https://www.viptv.work" target="_blank">
+<a href="https://www.hefung.github.io" target="_blank">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -58,7 +49,7 @@
 </picture>
 </a>
 
-<a href="https://www.viptv.work" target="_blank">
+<a href="https://www.hefung.github.io" target="_blank">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -70,7 +61,7 @@
 </picture>
 </a>
 
-<a href="https://www.viptv.work" target="_blank">
+<a href="https://www.hefung.github.io" target="_blank">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -81,7 +72,7 @@
   />
 </picture>
   
-<a href="https://www.viptv.work" target="_blank">
+<a href="https://www.hefung.github.io" target="_blank">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -93,7 +84,7 @@
 </picture>
 </a>
   
-<a href="https://www.viptv.work" target="_blank">   
+<a href="https://www.hefung.github.io" target="_blank">   
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
