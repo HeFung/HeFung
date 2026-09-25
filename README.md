@@ -2,6 +2,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Hi,%20I'm%20HeFung&reversal=true&textBg=false&fontSize=64&fontAlignY=30&desc=TypeScript%20enthusiast,%20Node.js%20user,%20Rust%20and%20Harmony%20beginner&descSize=16&descAlignY=50&descAlign=55">
 </picture>
 
+<p align="center">
+  <a href="https://github.com/hefung">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=7000FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=70&lines=%E4%BB%A3%E7%A0%81%E5%8D%B3%E8%89%BA%E6%9C%AF%EF%BC%8C%E6%95%88%E7%8E%87%E8%87%B3%E4%B8%8A%EF%BC%8C%E6%9E%81%E7%AE%80%E5%94%AF%E7%BE%8E;Code+is+art.+Ship+fast.+Stay+minimal." alt="Typing SVG" />
+  </a>
+</p>
+
 - 👨🏻‍💻 专注于前端开发的 Web 开发工程师
 - 💻 毕业于计算机专业的业余选手
 - 🪐 Self-hosting 爱好者
