@@ -9,22 +9,24 @@ on:
 env:
   TZ: Asia/Shanghai
 
+permissions:
+  contents: write  
+
 jobs:
   build:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v4
-      - name: GetTime
-        run: echo "DATE=$(TZ='Asia/Shanghai' date +%Y-%m-%d\ %H:%M\ %Z)" >> $GITHUB_ENV
+      - uses: actions/checkout@v7
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
-          GITHUB_TOKEN: ${{ secrets.ACTION_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
       - name: 提交更改
         run: |
-          git config --local user.email "qq2236639958@outlook.com"
-          git config --local user.name "qq2236639958"
-          git add .
-          git commit -m "Update  OF ${{ env.DATE}}"
-          git push -f
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add -A .
+          if git commit -m "generated"; then
+            git push
+          fi
